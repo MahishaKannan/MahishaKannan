@@ -1,6 +1,7 @@
+```markdown
 # Hi, I'm Mahisha K 👋
 
-🎓 **B.Tech Information Technology Student**
+🎓 **B.Tech Information Technology Student**  
 📍 Chennai, Tamil Nadu
 
 I'm an Information Technology student passionate about **Software Development, Data Structures & Algorithms, Web Development, and Cloud Computing**.
@@ -9,11 +10,11 @@ I enjoy learning new technologies, solving programming problems, and building pr
 
 ## 💻 Technical Skills
 
-* **Programming:** Python, C, C++
-* **Web Development:** HTML, CSS, JavaScript
-* **Databases:** MySQL, MongoDB
-* **Core CS:** DSA, OOP, DBMS, Operating Systems, Computer Networks, Cloud Computing
-* **Tools:** Git, GitHub, VS Code, QGIS, Canva
+- **Programming:** Java, Python, C, C++
+- **Web Development:** HTML, CSS, JavaScript
+- **Databases:** MySQL, MongoDB
+- **Core CS:** DSA, OOP, DBMS, Operating Systems, Computer Networks, Cloud Computing
+- **Tools:** Git, GitHub, VS Code, QGIS, Canva
 
 ## 🚀 Projects
 
@@ -21,13 +22,13 @@ I enjoy learning new technologies, solving programming problems, and building pr
 
 A women safety web application designed with features such as:
 
-* One-tap SOS alerts
-* Fake mode
-* Secret code activation
-* Fake call assistance
-* Silent selfie capture
-* Scheduled safety check-ins
-* Emergency notifications through WhatsApp and email
+- One-tap SOS alerts
+- Fake mode
+- Secret code activation
+- Fake call assistance
+- Silent selfie capture
+- Scheduled safety check-ins
+- Emergency notifications through WhatsApp and email
 
 🔗 [View Project on GitHub](https://github.com/MahishaKannan/abhaya-safety-app)
 
@@ -35,42 +36,48 @@ A women safety web application designed with features such as:
 
 A responsive food delivery application built using **HTML5, CSS3, and JavaScript**, featuring:
 
-* Interactive menu filtering
-* Cart management
-* Checkout simulation
-* Responsive layouts
-* Animations
-* Real-time interface updates
+- Interactive menu filtering
+- Cart management
+- Checkout simulation
+- Responsive layouts
+- Animations
+- Real-time interface updates
 
 🔗 [View Project on GitHub](https://github.com/MahishaKannan/FoodDelivery)
 
 ## ☁️ Experience
 
-**Web Development Intern – SkillCraft Technology**
-Worked on responsive UI development using HTML, CSS, and JavaScript.
+### Cloud Computing Intern – BIG-SI-BUCKS Innovation Pvt. Ltd.
 
-**Cloud Computing Intern – BIG-SI-BUCKS Innovation Pvt. Ltd.**
-Gained hands-on exposure to virtual machines, cloud storage, networking, and deployment concepts.
+Gained hands-on experience with cloud computing fundamentals, including virtual machines, cloud storage, networking, and deployment concepts.
+
+## 🤝 Volunteer Experience
+
+### Non-Formal English Club – St. Joseph's College of Engineering
+
+Actively volunteered in the college's Non-Formal English Club and participated in activities supporting communication, teamwork, and English language development.
 
 ## 🏆 Achievements
 
-* 💡 Solved **1000+ coding problems** on SkillRack
-* 💻 Solved **150+ problems** on LeetCode
-* 🌱 Completed **5+ open-source contributions** on GitHub
+- 💡 Solved **1000+ coding problems** on SkillRack
+- 💻 Solved **150+ problems** on LeetCode
+- 🌱 Completed **5+ open-source contributions** on GitHub
 
 ## 📜 Certifications
 
-* Introduction to Business Analysis Using Spreadsheets: Basics – Coursera
-* Cloud Computing – BIG-SI-BUCKS
-* Python for Data Science – NPTEL
-* AWS Academy Graduate – Machine Learning for Natural Language Processing
+- Introduction to Business Analysis Using Spreadsheets: Basics – Coursera
+- Cloud Computing – BIG-SI-BUCKS
+- Python for Data Science – NPTEL
+- AWS Academy Graduate – Machine Learning for Natural Language Processing
 
-## 🌱 Currently
+## 🌱 Currently Learning
 
-I'm continuously improving my **programming and problem-solving skills** through coding practice, projects, and learning new technologies.
+- Java
+- Data Structures & Algorithms
+- Software Development
+- Cloud Computing
 
----
-
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always interested in **learning, building projects, collaborating, and exploring opportunities in technology**.
+```
